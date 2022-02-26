@@ -15,6 +15,6 @@
 
 ## Layout
 
-<a href="https://www.figma.com/file/ahnGupP4JjTdVJDTRfMRF2/edie-homepage?node-id=0%3A1">
+[aqui](https://www.figma.com/file/ahnGupP4JjTdVJDTRfMRF2/edie-homepage?node-id=0%3A1)
 
 
