@@ -13,6 +13,8 @@
 - ``Bootstrap 5``
 - ``CSS``
 
+## Layout
 
+<a href="https://www.figma.com/file/ahnGupP4JjTdVJDTRfMRF2/edie-homepage?node-id=0%3A1">
 
 
